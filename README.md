@@ -4,8 +4,7 @@ App web que mostra o clima atual e a previsão de 5 dias para qualquer cidade.
 
 **[Ver online](https://mpaulatech.github.io/weather-app/)**
 
-![Print do app](<img width="1920" height="1080" alt="Screenshot From 2026-09-24 19-07-03" src="https://github.com/user-attachments/assets/09b2430d-2208-49f9-bf0c-55631e181daa" />
-)
+![Print do app](https://github.com/user-attachments/assets/09b2430d-2208-49f9-bf0c-55631e181daa)
 
 ## Tecnologias
 HTML, CSS, JavaScript e API Open-Meteo
