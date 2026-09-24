@@ -37,16 +37,6 @@ body {
   border: 0;
 }
 
-.sky {
-  position: fixed;
-  inset: 0;
-  z-index: 0;
-  background:
-    linear-gradient(180deg, rgba(186, 221, 246, 0.28) 0%, rgba(240, 247, 252, 0.55) 42%, rgba(186, 214, 196, 0.35) 100%),
-    url("https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&w=1920&q=80")
-      center / cover no-repeat;
-}
-
 .page {
   position: relative;
   z-index: 1;
